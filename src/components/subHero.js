@@ -9,7 +9,7 @@ const SubHero = () => {
                 <div className=" bg-yellow-200 w-full h-56">
           <h2>nnnn</h2>
     </div>
-    <div className=" bg-white w-full mb-56">
+    <div className=" bg-light-background w-full mb-56">
           <h2>n</h2>
     </div>
     </div>

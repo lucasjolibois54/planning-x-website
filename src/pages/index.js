@@ -4,7 +4,7 @@ import * as React from "react"
 import HeroSection from "../components/heroSection"
 import SubHero from "../components/SubHero"
 import AllDevicesHome from "../components/allDevicesHome.js"
-
+import FeaturedSection from "../components/featuredSection.js"
 // styles
 const pageStyles = {
   color: "#232129",
@@ -21,6 +21,7 @@ const IndexPage = () => {
       <HeroSection/>
       <SubHero/>
       <AllDevicesHome/>
+      <FeaturedSection/>
     </main>
   )
 }

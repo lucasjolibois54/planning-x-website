@@ -3,6 +3,7 @@ import * as React from "react"
 //components
 import HeroSection from "../components/heroSection"
 import SubHero from "../components/SubHero"
+import AllDevicesHome from "../components/allDevicesHome.js"
 
 // styles
 const pageStyles = {
@@ -19,6 +20,7 @@ const IndexPage = () => {
       <title>Planner X</title>
       <HeroSection/>
       <SubHero/>
+      <AllDevicesHome/>
     </main>
   )
 }

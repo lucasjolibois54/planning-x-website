@@ -6,7 +6,7 @@ import '../styles/global.css';
 const HeroSection = () => {
   return (
       <div>
-          <div className="w-full h-screen bg-center bg-no-repeat bg-cover  bg-maybe-dark-background">
+          <div className="w-full h-screen bg-center bg-no-repeat bg-cover  bg-maybe-dark-background pb-16">
     <div className="w-full h-screen flex justify-center items-center">
         <div className="mx-4 text-center text-white">
         <h1 className="text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-4xl md:text-7xl text-center font-semibold ">Your digital <br/> daily reminder</h1>

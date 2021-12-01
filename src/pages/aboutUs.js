@@ -2,9 +2,9 @@ import * as React from "react"
 
 //components
 import Navigation from "../components/navigation";
-import HeroSection from "../components/heroSection"
 import UsAbout from "../components/usAbout";
 import Footer from "../components/footer.js"
+import AboutHero from "../components/aboutHero"
 
 //additional pages
 
@@ -22,7 +22,7 @@ const AboutUs = () => {
     <main style={pageStyles}>
       <title>Planner X</title>
       <Navigation/>
-      <HeroSection/>
+      <AboutHero/>
       <UsAbout/>
       <Footer/>
     </main>

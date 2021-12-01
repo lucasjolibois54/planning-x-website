@@ -13,6 +13,9 @@ module.exports = {
         'p-tag-light': '#B7B5B5',
         'gray-variant': '#CBCBCB',
 
+        //box
+        'blue-box':'#132749',
+
         //gradient color
         'purple-text': '#6061D0',
         'orange-text': '#E7A88D',

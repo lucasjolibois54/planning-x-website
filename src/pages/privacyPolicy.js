@@ -8,9 +8,9 @@ import Footer from "../components/footer.js"
 const PravacyPolicy = () => {
     return (
         <div className="bg-maybe-dark-background w-full h-screen">
-            <div className="mx-4 text-left text-white bg-maybe-dark-background pt-20 transform pb-36 policy-text">
+            <div className="mx-4 text-left text-white bg-maybe-dark-background pt-20 md:pt-28 transform pb-36 policy-text">
                 <h1 className="text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-4xl md:text-6xl text-center font-semibold ">Planner X <br /> Terms & Conditions</h1>
-                <h2 className="font-light text-lg pt-10 md:w-full mb-12 pb-38">
+                <h2 className="font-light text-lg pt-10 md:pt-16 md:w-full mb-12 pb-38">
                 Terms and Conditions
 Welcome to Planner X! <br/><br/>
 

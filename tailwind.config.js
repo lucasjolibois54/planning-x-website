@@ -21,6 +21,9 @@ module.exports = {
         'light-outline-button': '#FFFFFF',
         'light-button': '#FFFFFF',
         'black-button': '#000000',
+
+        //footer text
+        'gray-footer': '#9ca3af',
       },
     },
     height: {

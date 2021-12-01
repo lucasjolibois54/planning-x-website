@@ -9,3 +9,14 @@
     font-family: 'Poppins', sans-serif;
     scroll-behavior: smooth;
 }
+
+.policy-text{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+
+@media (min-width: 768px) {
+    .policy-text{
+        margin-left: 20%;
+        margin-right: 20%;
+}}

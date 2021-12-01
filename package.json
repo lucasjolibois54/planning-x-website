@@ -8,9 +8,9 @@
     "gatsby"
   ],
   "scripts": {
-    "develop": "gatsby develop",
+    "develop": "gatsby clean && gatsby develop",
     "start": "gatsby develop",
-    "build": "gatsby build",
+    "build": "gatsby clean && gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean"
   },

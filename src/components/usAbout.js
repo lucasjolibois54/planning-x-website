@@ -8,7 +8,7 @@ const UsAbout = () => {
         <div>
             <div className=" bg-maybe-dark-background w-full h-screen pt-24 lg:pt-0 pb-20">
 
-                <div id="about" className="mb-28 p-0 flex flex-col-reverse w-full xl:flex-row-reverse md:p-16 md:mb-18 ">
+                <div id="meettheteam" className="mb-28 p-0 flex flex-col-reverse w-full xl:flex-row-reverse md:p-16 md:mb-18 ">
                     <div className="w-full xl:w-9/12">
                         <img src={TheTeam} className="pt-6" alt="The Team" />
                     </div>

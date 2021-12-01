@@ -43,7 +43,7 @@ const Footer = () => {
                                         <a href="#" className="text-gray-footer py-1 block hover:underline">Free software</a>
                                         <a href="#" className="text-gray-footer py-1 block hover:underline">Good resources</a>
                                         <a href="#" className="text-gray-footer py-1 block hover:underline">Effective Tools</a>
-                                        <a href="#" className="text-gray-footer py-1 block hover:underline">24/7 support</a>
+                                        <a href="/aboutUs#contact-us-id" className="text-gray-footer py-1 block hover:underline">24/7 support</a>
                                         <a href="#" className="text-gray-footer py-1 block hover:underline">Other</a>
                                     </div>
                                 </div>

@@ -8,7 +8,7 @@ const HeroSection = () => {
       <div>
           <div className="w-full h-100v bg-center bg-no-repeat bg-cover  bg-maybe-dark-background pb-16">
     <div className="w-full h-screen flex justify-center items-center">
-        <div className="mx-4 text-center text-white absolute top-1/2  left-1/2 transform -translate-x-1/2 -translate-y-1/2">
+        <div className="mx-4 text-center text-white absolute top-1/2  md:left-1/2 transform md:-translate-x-1/2 -translate-y-1/2">
         <h1 className="text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-4xl md:text-7xl text-center font-semibold ">Your digital <br/> daily reminder</h1>
             <h2 className="font-light text-lg mt-10 md:ml-96 md:w-96 md:mr-96 mb-12">Covid -19 is a world known virus that has affected millions of people. Wearing a mask has been our number one solution to stay safe and protect others. Why not invest in a high quality mask with focus in breathability, safety & design?</h2>
             <div>

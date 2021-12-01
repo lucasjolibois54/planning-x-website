@@ -1,5 +1,6 @@
 import * as React from "react"
 import '../styles/global.css';
+import Footer from "../components/footer.js"
 
 //images
 
@@ -7,9 +8,9 @@ import '../styles/global.css';
 const PravacyPolicy = () => {
     return (
         <div className="bg-maybe-dark-background w-full h-screen">
-            <div className="mx-4 text-left text-white bg-maybe-dark-background absolute top-20  md:left-1/2 transform md:-translate-x-1/2">
+            <div className="mx-4 text-left text-white bg-maybe-dark-background pt-20 transform pb-36 policy-text">
                 <h1 className="text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-4xl md:text-7xl text-center font-semibold ">Planner X <br /> Privacy Policy</h1>
-                <h2 className="font-light text-lg mt-10 md:w-full mb-12">
+                <h2 className="font-light text-lg pt-10 md:w-full mb-12 pb-38">
                     This privacy policy will help you understand how Planner X uses and
                     protects the data you provide to us when you visit and use plannerx.com.
                     We reserve the right to change this policy at any given time, of which you will be promptly
@@ -21,7 +22,7 @@ const PravacyPolicy = () => {
                     • Your contact information and email address.<br/>
                     • Other information such as interests and preferences.<br/>
                     • Data profile regarding your online behavior on our website.
-                    Why We Collect Your Data<br/>
+                    Why We Collect Your Data<br/><br/>
                     We are collecting your data for several reasons:<br/>
                     • To better understand your needs.<br/>
                     • To improve our services and products.<br/>
@@ -62,6 +63,7 @@ const PravacyPolicy = () => {
                     have your permission. We might do so if the law forces us. Your personal information will be
                     used when we need to send you promotional materials if you agree to this privacy policy.</h2>
             </div>
+            <Footer/>
         </div>
     )
 }

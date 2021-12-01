@@ -6,6 +6,7 @@ import UsAbout from "../components/usAbout";
 import Footer from "../components/footer.js"
 import AboutCompany from "../components/AboutCompany.js"
 import AboutHero from "../components/aboutHero"
+import ContactUs from "../components/contactUs.js"
 
 //additional pages
 
@@ -26,6 +27,7 @@ const AboutUs = () => {
       <AboutHero/>
       <UsAbout/>
       <AboutCompany/>
+      <ContactUs/>
       <Footer/>
     </main>
   )

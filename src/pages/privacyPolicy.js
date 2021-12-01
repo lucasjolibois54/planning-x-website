@@ -33,7 +33,7 @@ const PravacyPolicy = () => {
                     Planner X is committed to securing your data and keeping it confidential. Planner X has done all in its
                     power to prevent data theft, unauthorized access, and disclosure by implementing the latest
                     technologies and software, which help us safeguard all the information we collect online.
-                    <br/> <be/>
+                    <br/> <br/>
                     Our Cookie Policy
                     Once you agree to allow our website to use cookies, you also agree to use the data it collects
                     regarding your online behavior (analyze web traffic, web pages you spend the most time on,
@@ -43,10 +43,10 @@ const PravacyPolicy = () => {
                     Please note that cookies don't allow us to gain control of your computer in any way. They are
                     strictly used to monitor which pages you find useful and which you do not so that we can
                     provide a better experience for you.
-                    Terms and conditions template by WebsitePolicies.com
+                    <br/><br/>
                     If you want to disable cookies, you can do it by accessing the settings of your internet browser.
                     (Provide links for cookie settings for major internet browsers).
-                    Links to Other Websites
+                    Links to Other Websites<br/><br/>
                     Our website contains links that lead to other websites. If you click on these links Planner X is not
                     held responsible for your data and privacy protection. Visiting those websites is not governed by
                     this privacy policy agreement. Make sure to read the privacy policy documentation of the

@@ -4,6 +4,7 @@ import * as React from "react"
 import Navigation from "../components/navigation";
 import UsAbout from "../components/usAbout";
 import Footer from "../components/footer.js"
+import AboutCompany from "../components/AboutCompany.js"
 import AboutHero from "../components/aboutHero"
 
 //additional pages
@@ -24,6 +25,7 @@ const AboutUs = () => {
       <Navigation/>
       <AboutHero/>
       <UsAbout/>
+      <AboutCompany/>
       <Footer/>
     </main>
   )

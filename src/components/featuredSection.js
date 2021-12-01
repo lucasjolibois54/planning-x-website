@@ -2,7 +2,7 @@ import * as React from "react"
 import '../styles/global.css';
 
 //images
-import DevicesImg from "../images/devices.png";
+import DevicesImg2 from "../images/Rectangle7654.png";
 
 // markup
 const FeaturedSection = () => {
@@ -10,8 +10,8 @@ const FeaturedSection = () => {
         <div className=" bg-maybe-dark-background w-full h-screen pt-24 lg:pt-0 pb-20">
 
             <div id="about" className="mb-28 p-0 flex flex-col-reverse w-full xl:flex-row md:p-16 md:mb-18">
-                <div className="w-full xl:w-full">
-                    <img src={DevicesImg} className="pt-6" alt="mockup" />
+                <div className="w-full xl:w-9/12">
+                    <img src={DevicesImg2} className="pt-6" alt="mockup" />
                 </div>
                 <div className="flex text-center flex-col w-full px-3 justify-center xl:w-5/10 xl:text-left xl:pl-10">
 

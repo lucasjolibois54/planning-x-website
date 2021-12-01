@@ -1,6 +1,7 @@
 import * as React from "react"
 
 //components
+import Navigation from "../components/navigation";
 import HeroSection from "../components/heroSection"
 import SubHero from "../components/SubHero"
 import AllDevicesHome from "../components/allDevicesHome.js"
@@ -23,6 +24,7 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <title>Planner X</title>
+      <Navigation/>
       <HeroSection/>
       <SubHero/>
       <AllDevicesHome/>

@@ -10,7 +10,7 @@ const AboutHero = () => {
     <div className="w-full h-screen flex justify-center items-center">
         <div className="mx-4 text-center text-white absolute top-1/2  md:left-1/2 transform md:-translate-x-1/2 -translate-y-1/2">
         <h1 className="md:mt-10 text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-4xl md:text-7xl text-center font-semibold ">Learn more <br/>  about us!</h1>
-            <h2 className="font-light text-lg mt-4 md:ml-20 md:w-96 md:mr-20 sm:pr-0 mb-7">Planner X is a revolutionary free-to-use software made to make your workspace simpler, by helping your manage your team. Scroll down to learn more about us, our company & our software!</h2>
+            <h2 className="font-light text-lg mt-4 md:ml-20 md:w-96 md:mr-20 sm:pr-0 mb-7">Planner X is a revolutionary free-to-use software made to make your workspace simpler, by helping you manage your team. Scroll down to learn more about us, our company & our software!</h2>
             <div>
                 {/* <a href="" class="bg-blue-500 rounded-md font-bold text-white text-center px-4 py-3 transition duration-300 ease-in-out hover:bg-blue-600 mr-2">
                     Our blog

@@ -19,7 +19,9 @@ const HeroSection = () => {
                     Shop
                 </a> */}
 
-<a href="#" className="py-1 px-4 text-light-button border-2 bg-blue-button border-blue-button rounded-md mr-2 transform transition duration-300 ease-in-out hover:scale-110 hover:bg-light-button hover:text-dark-background hover:border-light-button">Try our App</a> <a className="ml-2 py-1 px-4 text-light-button  border-2 border-light-button hover:border-blue-button hover:text-light-button transform transition duration-300 ease-in-out  hover:scale-110 rounded-md" href="#"> More about us</a>
+<div className="flex justify-center text-center items-center py-0">
+                        <a href="https://plannerx.netlify.app/" className="py-1 px-4 text-light-button border-2 bg-blue-button border-blue-button rounded-md mr-2 transform transition duration-300 ease-in-out hover:scale-110 hover:bg-gray-800 hover:border-gray-800">Try our app</a> <a className="ml-2 py-1 px-4 text-light-button border-2 border-light-button hover:text-light-background hover:border-blue-button  transform transition duration-300 ease-in-out  hover:scale-110 rounded-md" href="#about">More about us</a>
+                    </div>
             </div>
         </div>
     </div>

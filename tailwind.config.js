@@ -38,9 +38,9 @@ module.exports = {
 			"90v": "90vh",
 			"100v": "100vh",
 		},
-    width: {
-			"110rem": "32rem",
-		},
+   /* width: {
+			"512px-w": "512px",
+		},*/
   },
 screens: {
   'xsm': '520px',

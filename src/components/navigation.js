@@ -128,7 +128,7 @@ export default function IndexPage() {
                     {/*Mobile responsive sidebar*/}
                     <div className={show ? "w-full xl:hidden h-full absolute z-40  transform  translate-x-0 " : "   w-full xl:hidden h-full absolute z-40  transform -translate-x-full"}>
                         <div className="bg-gray-800 opacity-50 w-full h-full" onClick={() => setShow(!show)} />
-                        <div className="w-80 z-40 fixed overflow-y-auto z-40 top-0 right-0 bg-dark-background shadow h-full flex-col justify-between xl:hidden pb-6 transition duration-150 ease-in-out">
+                        <div className="w-screen z-40 fixed overflow-y-auto z-40 top-0 right-0 bg-dark-background shadow h-full flex-col justify-between xl:hidden pb-6 transition duration-150 ease-in-out">
                             <div className="px-6 h-full">
                                 <div className="flex flex-col justify-between h-full w-full">
                                     <div>

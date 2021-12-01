@@ -1,7 +1,7 @@
 import * as React from "react"
 import '../styles/global.css';
 
-import TheTeam from "../images/Group18.png";
+import TheTeam from "../images/Group-18.svg";
 // markup
 const UsAbout = () => {
     return (

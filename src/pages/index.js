@@ -1,12 +1,16 @@
 import * as React from "react"
 
 //components
+import Navigation from "../components/navigation";
 import HeroSection from "../components/heroSection"
 import SubHero from "../components/SubHero"
 import AllDevicesHome from "../components/allDevicesHome.js"
 import FeaturedSection from "../components/featuredSection.js"
 import DownloadForFree from "../components/DownloadForFree.js"
 import Footer from "../components/footer.js"
+
+//additional pages
+
 // styles
 const pageStyles = {
   color: "#232129",
@@ -20,6 +24,7 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <title>Planner X</title>
+      <Navigation/>
       <HeroSection/>
       <SubHero/>
       <AllDevicesHome/>

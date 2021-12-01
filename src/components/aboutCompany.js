@@ -36,9 +36,9 @@ const AboutCompany = () => {
                 </div>
                 <div className="w-full  pt-0 pb-20 pr-0 text-center w-100% lg:pl-10 md:w-7/12 lg:w-5/12 lg:ml-0 md:ml-10">
                     {/* <h2 className="pl-8 text-4xl font-semibold pb-10 pr-10 text-center  text-gray-variant md:text-5xl"><span className="bg-orange-text p-3 pl-4 pr-4 rounded-full">04</span></h2> */}
-                    < h2 className=" text-2xl pb-1 font-semibold text-gray-variant  md:text-3xl md:text-left">About us</h2>
+                    < h2 className=" text-2xl pb-1 font-semibold text-gray-variant  md:text-3xl md:text-left">01 Organize and plan</h2>
                     <h2 className="  text-sm text-gray-variant md:text-left md:leading-10 md:text-lg">
-                    Nam accumsan ornare purus id tempus. Fusce ac diam auctor lorem vehicula lacinia a at libero. Nulla volutpat nunc vitae sapien gravida tempus. Fusce rutrum tincidunt.
+                    With our software you can easily organize and plan with multiple tasks. Here you can set deadlines and who is responible to complete the differnet tasks. 
                     </h2>
                 </div>
             </div>

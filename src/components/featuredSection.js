@@ -7,7 +7,7 @@ import DevicesImg from "../images/devices.png";
 // markup
 const FeaturedSection = () => {
     return (
-        <div className=" bg-maybe-dark-background w-full h-screen pt-16 pb-20">
+        <div className=" bg-maybe-dark-background w-full h-screen pt-24 lg:pt-0 pb-20">
 
             <div id="about" className="mb-28 p-0 flex flex-col-reverse w-full xl:flex-row md:p-16 md:mb-18">
                 <div className="w-full xl:w-full">

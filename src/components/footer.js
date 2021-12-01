@@ -51,7 +51,7 @@ const Footer = () => {
 
       <div class="md:w-1/3 md:px-4 md:text-center mt-12 lg:mt-0">
         <h5 class="text-lg text-light-button font-medium mb-4">Try the software for free</h5>
-        <button class="bg-blue-button text-light-background transform transition duration-300 ease-in-out hover:scale-110 hover:bg-gray-800 hover:border-gray-800 rounded py-2 px-6 md:px-12 ">Try it out!</button>
+        <button class="bg-blue-button text-light-background transform transition duration-300 ease-in-out hover:scale-110 hover:bg-gray-800 hover:border-gray-800 rounded-md py-2 px-6 md:px-12 ">Try it out!</button>
       </div>
 
     </div>

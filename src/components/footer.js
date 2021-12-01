@@ -64,7 +64,7 @@ const Footer = () => {
 
       <div className="md:flex md:-mx-4 md:items-center">
         <div className="md:flex-1 md:px-4 text-center md:text-left">
-          <p className="text-light-button">&copy; <strong>Planner X</strong></p>
+          <p className="cursor-pointer text-light-button"  onClick={()=>{navigate("/")}}>&copy; <strong>Planner X</strong></p>
         </div>
         <div className="md:flex-1 md:px-4 text-center md:text-right">
           <a href="#" className="py-2 px-4 text-light-button inline-block hover:underline"  onClick={()=>{navigate("/termOfService")}}>Terms of Service</a>

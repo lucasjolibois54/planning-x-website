@@ -5,6 +5,7 @@ import Navigation from "../components/navigation";
 import Footer from "../components/footer.js"
 import AboutHero from "../components/aboutHero"
 import SoftwareOverview from "../components/SoftwareOverview"
+import SoftwareFeatureCards from "../components/softwareFeatureCards"
 
 //additional pages
 
@@ -20,10 +21,11 @@ const pageStyles = {
 const Software = () => {
   return (
     <main style={pageStyles}>
-      <title>Planner X</title>
+      <title>Planner X- about the software</title>
       <Navigation/>
       <AboutHero/>
       <SoftwareOverview/>
+      <SoftwareFeatureCards/>
       <Footer/>
     </main>
   )

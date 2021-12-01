@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import { navigate } from "gatsby"
 
 
 
@@ -72,7 +73,7 @@ export default function IndexPage() {
                                         </span>
                                         Features
                                     </a>
-                                    <a href="javascript: void(0)" className="flex px-5 items-center py-6 text-sm leading-5 text-white hover:bg-dark-background focus:outline-none transition duration-150 ease-in-out">
+                                    <a href="javascript: void(0)" className="flex px-5 items-center py-6 text-sm leading-5 text-white hover:bg-dark-background focus:outline-none transition duration-150 ease-in-out"  onClick={()=>{navigate("/software")}}>
                                         <span className="mr-2">
                                             <svg xmlns="http://www.w3.org/2000/svg" className="icon icon-tabler icon-tabler-compass" width={20} height={20} viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" fill="none" strokeLinecap="round" strokeLinejoin="round">
                                                 <path stroke="none" d="M0 0h24v24H0z" />

@@ -11,6 +11,7 @@ module.exports = {
 
         //text colors
         'p-tag-light': '#B7B5B5',
+        'gray-variant': '#CBCBCB',
 
         //gradient color
         'purple-text': '#6061D0',

@@ -7,7 +7,7 @@ import Contactimg from "../images/contactimg.svg";
 // markup
 const ContactUs = () => {
     return (
-        <div>
+        <div >
             <div className=" bg-maybe-dark-background w-full h-screen pt-24 lg:pt-0 pb-20">
 
                 <div id="meettheteam" className="mb-28 p-0 flex flex-col-reverse w-full xl:flex-row-reverse md:p-16 md:mb-18 ">
@@ -16,7 +16,7 @@ const ContactUs = () => {
                     </div>
                     <div className="flex text-center flex-col w-full px-3 justify-center xl:w-5/10 xl:text-left xl:pl-10">
 
-                        <h2 className="text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-5xl sm:text-6xl md:text-7xl 2xl:text-8xl font-semibold font-sans text-dark-text py-0">
+                        <h2 id="contact-us-id" className="text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-5xl sm:text-6xl md:text-7xl 2xl:text-8xl font-semibold font-sans text-dark-text py-0">
                         Get in touch!
                         </h2>
                         <p className=" lg:w-10/12 text-xl font-light text-light-background px-2 text-dark-text py-5 md:px-24 xl:pl-0 xl:pr-20">

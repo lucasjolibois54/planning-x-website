@@ -7,6 +7,9 @@ import AllDevicesHome from "../components/allDevicesHome.js"
 import FeaturedSection from "../components/featuredSection.js"
 import DownloadForFree from "../components/DownloadForFree.js"
 import Footer from "../components/footer.js"
+
+//additional pages
+
 // styles
 const pageStyles = {
   color: "#232129",

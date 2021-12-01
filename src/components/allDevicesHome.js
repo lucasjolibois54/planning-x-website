@@ -9,7 +9,7 @@ const AllDevicesHome = () => {
     return (
         <div className=" bg-light-background w-full h-screen">
 
-            <div id="about" className="mb-28 p-0 flex flex-col w-full xl:flex-row md:p-16 md:mb-18">
+            <div id="about" className="mb-28 p-0 flex flex-col-reverse w-full xl:flex-row md:p-16 md:mb-18">
                 <div className="w-full xl:w-full">
                     <img src={DevicesImg} className="pt-6" alt="mockup" />
                 </div>

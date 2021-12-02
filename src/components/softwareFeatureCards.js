@@ -15,10 +15,10 @@ function MyApp() {
                                 <div role="cell" className="bg-white border rounded-3xl">
                                     <div className="bg-white p-5 border rounded-3xl relative h-full w-full">
                                         {/* class="absolute inset-0 object-center object-cover h-full w-full"  */}
-                                        <span>
+                                        <div className="flex">
                                         <img src={Vector} className="pt-6 w-14" alt="mockup" />
-                                        </span>
-                                        <h1 className="pb-4 mt-5 text-2xl font-semibold">User centered</h1>
+                                        
+                                        <h1 className="pb-4 mt-5 text-2xl font-semibold ">User centered</h1></div>
                                         <div className="my-5">
                                             <div className="flex items-center dark:border-gray-700 cursor-pointer w-full space-x-3">
                                                 <h4 className="text-md text-gray-900 dark:text-gray-100 pl-4">We have created a convenient social network. Here you can communicatewith your family members, set tasks for them, propose events, plan weekends and holidays.</h4>

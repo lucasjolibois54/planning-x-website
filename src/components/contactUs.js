@@ -36,7 +36,7 @@ const ContactUs = () => {
           <div class="mt-8">
             <span class="uppercase text-sm text-gray-600 font-bold"></span>
             <textarea
-              class="w-9/12 h-32 bg-blue-box text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline" placeholder="Writw your message"></textarea>
+              class="w-9/12 h-32 bg-blue-box text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline" placeholder="Write your message"></textarea>
           </div>
           <div class="mt-8">
 

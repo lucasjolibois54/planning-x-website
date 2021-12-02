@@ -46,7 +46,9 @@ export default function IndexPage() {
                             <div className="flex w-full sm:w-auto items-center sm:items-stretch justify-end sm:justify-start">
                                 <div className="flex items-center">
                                     <div className="flex items-center w-20">
+                                        <a className="cursor-pointer"  onClick={()=>{navigate("/")}}>
                                         <img src={PlannerXlogo} className="pt-6" alt="mockup" />
+                                        </a>
                                     </div>
                                 </div>
                             </div>

@@ -3,10 +3,11 @@ import * as React from "react"
 //components
 import Navigation from "../components/navigation";
 import Footer from "../components/footer.js"
-import AboutHero from "../components/aboutHero"
+import SoftwareHero from "../components/softwareHero"
 import SoftwareOverview from "../components/SoftwareOverview"
 import SoftwareFeatureCards from "../components/softwareFeatureCards"
 import SoftwareHowWorks from "../components/softwareHowWorks"
+import SubHeroSoftware from "../components/subHeroSoftware"
 
 //additional pages
 
@@ -24,7 +25,8 @@ const Software = () => {
     <main style={pageStyles}>
       <title>Planner X- about the software</title>
       <Navigation/>
-      <AboutHero/>
+      <SoftwareHero/>
+      <SubHeroSoftware/>
       <SoftwareOverview/>
       <SoftwareHowWorks/>
       <SoftwareFeatureCards/>

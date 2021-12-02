@@ -31,20 +31,19 @@ const Footer = () => {
                                 <div className="sm:flex-1">
                                     <h6 className="text-base font-medium text-light-button uppercase mb-2">About</h6>
                                     <div>
-                                        <a href="#" className="text-gray-footer py-1 block hover:underline">Company</a>
-                                        <a href="#" className="text-gray-footer py-1 block hover:underline">Culture</a>
-                                        <a href="#" className="text-gray-footer py-1 block hover:underline">Team</a>
-                                        <a href="#" className="text-gray-footer py-1 block hover:underline">Software</a>
+                                        <a href="/aboutUs#meettheteam" className="text-gray-footer py-1 block hover:underline">Team</a>
+                                        <a href="/aboutUs#About-the-company" className="text-gray-footer py-1 block hover:underline">Company</a>
+                                        <a href="/aboutUs#contact-us-id" className="text-gray-footer py-1 block hover:underline">24/7 support</a>
+                                        <a href="/aboutUs#top-of-the-home-page" className="text-gray-footer py-1 block hover:underline">Top of about page</a>
                                     </div>
                                 </div>
                                 <div className="sm:flex-1 mt-4 sm:mt-0">
                                     <h6 className="text-base font-medium text-light-button uppercase mb-2">What we offer</h6>
                                     <div>
-                                        <a href="#" className="text-gray-footer py-1 block hover:underline">Free software</a>
-                                        <a href="#" className="text-gray-footer py-1 block hover:underline">Good resources</a>
-                                        <a href="#" className="text-gray-footer py-1 block hover:underline">Effective Tools</a>
-                                        <a href="/aboutUs#contact-us-id" className="text-gray-footer py-1 block hover:underline">24/7 support</a>
-                                        <a href="#" className="text-gray-footer py-1 block hover:underline">Other</a>
+                                        <a href="/software#software-overview-on-software-page" className="text-gray-footer py-1 block hover:underline">Software Highlights</a>
+                                        <a href="/software#tips-about-page" className="text-gray-footer py-1 block hover:underline">Effective Tools</a>
+                                        <a href="/software#cards-on-software-page" className="text-gray-footer py-1 block hover:underline">Tips & resources</a>
+                                        <a href="#" className="text-gray-footer py-1 block hover:underline">Top of Software page</a>
                                     </div>
                                 </div>
                             </div>

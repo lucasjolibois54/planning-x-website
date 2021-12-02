@@ -8,6 +8,7 @@ import SoftwareOverview from "../components/SoftwareOverview"
 import SoftwareFeatureCards from "../components/softwareFeatureCards"
 import SoftwareHowWorks from "../components/softwareHowWorks"
 import SubHeroSoftware from "../components/subHeroSoftware"
+import SoftwareHotToD from "../components/softwareHotToD"
 
 //additional pages
 
@@ -30,6 +31,7 @@ const Software = () => {
       <SoftwareOverview/>
       <SoftwareHowWorks/>
       <SoftwareFeatureCards/>
+      <SoftwareHotToD/>
       <Footer/>
     </main>
   )

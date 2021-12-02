@@ -16,7 +16,7 @@ const SoftwareHotToD = () => {
                             <div className="flex justify-center text-center items-center py-0 pb-28">
                                 <div className="md:w-4/6">
                                     <img src={Steps5} className="pt-6" alt="mockup" />
-                                    <h2 className="font-light text-lg mt-4 text-left sm:pr-0 mb-7">Our app works on computers, tablets and phones.Just download it and register or go to your account Information is synchronized between devices. The application will tell you about itself and show the full functionality of the tooltip.</h2>
+                                    <h2 className="font-light text-lg mt-4 text-left sm:pr-0 mb-7">Our app works on computers, tablets and phones. Just download it and register or go to your account Information is synchronized between devices. The application will tell you about itself and show the full functionality of the tooltip.</h2>
                                 </div>
                             </div>
                         </div>

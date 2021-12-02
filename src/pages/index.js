@@ -23,7 +23,7 @@ const pageStyles = {
 const IndexPage = () => {
   return (
     <main style={pageStyles}>
-      <title>Planner X</title>
+      <title>Planner X- home</title>
       <Navigation/>
       <HeroSection/>
       <SubHero/>

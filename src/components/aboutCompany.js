@@ -5,7 +5,7 @@ import '../styles/global.css';
 const AboutCompany = () => {
     return (
         <div>
- <div id="process" className=" pb-10 lg:pb-36 xsm:pl-50 xsm:pr-20 pl-5 pr-5 md:pl-36 md:pr-36 lg:pl-10 lg:pr-10 bg-maybe-dark-background">
+ <div id="About-the-company" className=" pb-10 lg:pb-36 xsm:pl-50 xsm:pr-20 pl-5 pr-5 md:pl-36 md:pr-36 lg:pl-10 lg:pr-10 bg-maybe-dark-background">
             {/* <div>
                 <h2 className="text-5xl sm:text-6xl md:text-7xl 2xl:text-8xl font-semibold font-sans text-gray-variant py-0 text-center">
                     More about the

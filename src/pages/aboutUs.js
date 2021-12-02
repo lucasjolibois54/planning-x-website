@@ -22,7 +22,7 @@ const pageStyles = {
 const AboutUs = () => {
   return (
     <main style={pageStyles}>
-      <title>Planner X</title>
+      <title>Planner X- about us</title>
       <Navigation/>
       <AboutHero/>
       <UsAbout/>

@@ -10,7 +10,7 @@ function MyApp() {
                 <div className="container mx-auto">
                     <div role="article" className="bg-maybe-dark-background py-12 md:px-8">
                         
-                        <div className="px-62 xl:px-0">
+                        <div id="#cards-on-software-page" className="px-62 xl:px-0">
                             <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-3 pb-6 gap-20">
                                 <div role="cell" className="bg-white border rounded-3xl">
                                     <div className="bg-white p-5 border rounded-3xl relative h-full w-full">

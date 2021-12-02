@@ -20,7 +20,7 @@ const SoftwareHowWorks = () => {
                         <div className="text-lg text-light-background px-5 text-dark-text py-5 md:px-24 xl:pl-0 xl:pr-20">
                             <ul>
                                 <li className="list-disc"><p className="font-light text-left">The application is a SPA SaaS web application and it easen your workflow with your team. Through the app you can distribute tasks while also adding a timeframe & more.</p></li><br/>
-                                <li className="list-disc"><p className="font-light text-left">Through Planner X, your coworkers will be able to mark their tasks as done when they have finished it, which will give you a clear overview of what have been done throughout the day.</p></li>
+                                <li className="list-disc"><p className="font-light text-left">Through Planner X, your coworkers will be able to mark their tasks as done when they have finished it, which will give you a clear overview of what has been done throughout the day.</p></li>
                             </ul>
                         </div>
                         {/* <div className="flex justify-center text-center items-center py-0 xl:justify-start">

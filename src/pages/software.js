@@ -7,7 +7,6 @@ import SoftwareHero from "../components/softwareHero"
 import SoftwareOverview from "../components/SoftwareOverview"
 import SoftwareFeatureCards from "../components/softwareFeatureCards"
 import SoftwareHowWorks from "../components/softwareHowWorks"
-import SubHeroSoftware from "../components/subHeroSoftware"
 import SoftwareHotToD from "../components/softwareHotToD"
 import SoftwareTheStepsOverview from "../components/softwareTheStepsOverview"
 import InstallGuide from "../components/installGuide"
@@ -29,7 +28,6 @@ const Software = () => {
       <title>Planner X- about the software</title>
       <Navigation/>
       <SoftwareHero/>
-      <SubHeroSoftware/>
       <SoftwareOverview/>
       <SoftwareHowWorks/>
       <SoftwareFeatureCards/>

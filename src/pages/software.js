@@ -6,6 +6,7 @@ import Footer from "../components/footer.js"
 import AboutHero from "../components/aboutHero"
 import SoftwareOverview from "../components/SoftwareOverview"
 import SoftwareFeatureCards from "../components/softwareFeatureCards"
+import SoftwareHowWorks from "../components/softwareHowWorks"
 
 //additional pages
 
@@ -25,6 +26,7 @@ const Software = () => {
       <Navigation/>
       <AboutHero/>
       <SoftwareOverview/>
+      <SoftwareHowWorks/>
       <SoftwareFeatureCards/>
       <Footer/>
     </main>

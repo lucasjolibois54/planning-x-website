@@ -46,13 +46,15 @@ export default function IndexPage() {
                             <div className="flex w-full sm:w-auto items-center sm:items-stretch justify-end sm:justify-start">
                                 <div className="flex items-center">
                                     <div className="flex items-center w-20">
+                                        <a className="cursor-pointer"  onClick={()=>{navigate("/")}}>
                                         <img src={PlannerXlogo} className="pt-6" alt="mockup" />
+                                        </a>
                                     </div>
                                 </div>
                             </div>
                             <div className="flex">
                                 <div className="hidden xl:flex md:mr-6 xl:mr-16">
-                                    <a href="javascript: void(0)" className="flex px-5 items-center py-6 text-sm leading-5 text-white hover:bg-dark-background focus:outline-none transition duration-150 ease-in-out">
+                                    <a href="javascript: void(0)" className="flex px-5 items-center py-6 text-sm leading-5 text-white hover:bg-dark-background focus:outline-none transition duration-150 ease-in-out"  onClick={()=>{navigate("/")}}>
                                         <span className="mr-2">
                                             <svg xmlns="http://www.w3.org/2000/svg" className="icon icon-tabler icon-tabler-grid" width={20} height={20} viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" fill="none" strokeLinecap="round" strokeLinejoin="round">
                                                 <path stroke="none" d="M0 0h24v24H0z" />
@@ -62,18 +64,18 @@ export default function IndexPage() {
                                                 <rect x={14} y={14} width={6} height={6} rx={1} />
                                             </svg>
                                         </span>
-                                        Devices
+                                        Home
                                     </a>
-                                    <a href="javascript: void(0)" className="flex px-5 items-center py-6 text-sm leading-5 text-white hover:bg-dark-background focus:outline-none transition duration-150 ease-in-out">
+                                    <a href="javascript: void(0)" className="flex px-5 items-center py-6 text-sm leading-5 text-white hover:bg-dark-background focus:outline-none transition duration-150 ease-in-out"  onClick={()=>{navigate("/software")}}>
                                         <span className="mr-2">
                                             <svg xmlns="http://www.w3.org/2000/svg" className="icon icon-tabler icon-tabler-puzzle" width={20} height={20} viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" fill="none" strokeLinecap="round" strokeLinejoin="round">
                                                 <path stroke="none" d="M0 0h24v24H0z" />
                                                 <path d="M4 7h3a1 1 0 0 0 1 -1v-1a2 2 0 0 1 4 0v1a1 1 0 0 0 1 1h3a1 1 0 0 1 1 1v3a1 1 0 0 0 1 1h1a2 2 0 0 1 0 4h-1a1 1 0 0 0 -1 1v3a1 1 0 0 1 -1 1h-3a1 1 0 0 1 -1 -1v-1a2 2 0 0 0 -4 0v1a1 1 0 0 1 -1 1h-3a1 1 0 0 1 -1 -1v-3a1 1 0 0 1 1 -1h1a2 2 0 0 0 0 -4h-1a1 1 0 0 1 -1 -1v-3a1 1 0 0 1 1 -1" />
                                             </svg>
                                         </span>
-                                        Features
+                                        Software
                                     </a>
-                                    <a href="javascript: void(0)" className="flex px-5 items-center py-6 text-sm leading-5 text-white hover:bg-dark-background focus:outline-none transition duration-150 ease-in-out"  onClick={()=>{navigate("/software")}}>
+                                    <a href="javascript: void(0)" className="flex px-5 items-center py-6 text-sm leading-5 text-white hover:bg-dark-background focus:outline-none transition duration-150 ease-in-out"  onClick={()=>{navigate("/aboutUs")}}>
                                         <span className="mr-2">
                                             <svg xmlns="http://www.w3.org/2000/svg" className="icon icon-tabler icon-tabler-compass" width={20} height={20} viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" fill="none" strokeLinecap="round" strokeLinejoin="round">
                                                 <path stroke="none" d="M0 0h24v24H0z" />
@@ -81,7 +83,7 @@ export default function IndexPage() {
                                                 <circle cx={12} cy={12} r={9} />
                                             </svg>
                                         </span>
-                                        Download
+                                        About Us
                                     </a>
                                     <div className="flex flex-col mt-4">
                                         <a
@@ -150,7 +152,7 @@ export default function IndexPage() {
                                             </div>
                                         </div>
                                         <ul className="f-m-m">
-                                            <a className="cursor-pointer">
+                                            <a className="cursor-pointer"  onClick={()=>{navigate("/")}}>
                                                 <li className="text-white pt-10">
                                                     <div className="flex items-center">
                                                         <div className="w-6 h-6 md:w-8 md:h-8 text-white">
@@ -162,11 +164,11 @@ export default function IndexPage() {
                                                                 <rect x={14} y={14} width={6} height={6} rx={1} />
                                                             </svg>
                                                         </div>
-                                                        <p className="text-white xl:text-base text-base ml-3">Device</p>
+                                                        <p className="text-white xl:text-base text-base ml-3">Home</p>
                                                     </div>
                                                 </li>
                                             </a>
-                                            <a className="cursor-pointer">
+                                            <a className="cursor-pointer"  onClick={()=>{navigate("/software")}}>
                                                 <li className="text-white pt-8">
                                                     <div className="flex items-center justify-between">
                                                         <div className="flex items-center">
@@ -176,12 +178,12 @@ export default function IndexPage() {
                                                                     <path d="M4 7h3a1 1 0 0 0 1 -1v-1a2 2 0 0 1 4 0v1a1 1 0 0 0 1 1h3a1 1 0 0 1 1 1v3a1 1 0 0 0 1 1h1a2 2 0 0 1 0 4h-1a1 1 0 0 0 -1 1v3a1 1 0 0 1 -1 1h-3a1 1 0 0 1 -1 -1v-1a2 2 0 0 0 -4 0v1a1 1 0 0 1 -1 1h-3a1 1 0 0 1 -1 -1v-3a1 1 0 0 1 1 -1h1a2 2 0 0 0 0 -4h-1a1 1 0 0 1 -1 -1v-3a1 1 0 0 1 1 -1" />
                                                                 </svg>
                                                             </div>
-                                                            <p className="text-white xl:text-base md:text-2xl text-base ml-3">Features</p>
+                                                            <p className="text-white xl:text-base md:text-2xl text-base ml-3">Software</p>
                                                         </div>
                                                     </div>
                                                 </li>
                                             </a>
-                                            <a className="cursor-pointer">
+                                            <a className="cursor-pointer"  onClick={()=>{navigate("/aboutUs")}}>
                                                 <li className="text-white pt-8">
                                                     <div className="flex items-center">
                                                         <div className="w-6 h-6 md:w-8 md:h-8 text-white">
@@ -191,7 +193,7 @@ export default function IndexPage() {
                                                                 <circle cx={12} cy={12} r={9} />
                                                             </svg>
                                                         </div>
-                                                        <p className="text-white xl:text-base md:text-2xl text-base ml-3">Download</p>
+                                                        <p className="text-white xl:text-base md:text-2xl text-base ml-3">About Us</p>
                                                     </div>
                                                 </li>
                                             </a>

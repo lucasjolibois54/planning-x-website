@@ -6,7 +6,7 @@ import '../styles/global.css';
 const AboutHero = () => {
   return (
       <div>
-          <div className="w-full h-100v bg-center bg-no-repeat bg-cover  bg-maybe-dark-background pb-16">
+          <div id="top-of-the-home-page" className="w-full h-100v bg-center bg-no-repeat bg-cover  bg-maybe-dark-background pb-16">
     <div className="w-full h-screen flex justify-center items-center">
         <div className="mx-4 text-center text-white absolute top-1/2  md:left-1/2 transform md:-translate-x-1/2 -translate-y-1/2">
         <h1 className="md:mt-10 text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-4xl md:text-7xl text-center font-semibold ">Learn more <br/>  about us!</h1>

@@ -21,7 +21,7 @@ function MyApp() {
               </div>
               <div className="mt-4 pl-2 mb-2 flex justify-between ">
                 <div>
-                  <p className="text-lg font-semibold text-gray-900 mb-0">User centered</p>
+                  <p className="text-lg font-semibold text-gray-900 mb-0">collaborartive tools</p>
                   <p className="text-md text-gray-800 mt-0">We have created a convenient social network. Here you can communicatewith your family members, set tasks for them, propose events, plan weekends and holidays.</p>
                 </div>
               </div>
@@ -39,7 +39,7 @@ function MyApp() {
               </div>
               <div className="mt-4 pl-2 mb-2 flex justify-between ">
                 <div>
-                  <p className="text-lg font-semibold text-gray-900 mb-0">User centered</p>
+                  <p className="text-lg font-semibold text-gray-900 mb-0">View show´s online</p>
                   <p className="text-md text-gray-800 mt-0">We have created a convenient social network. Here you can communicatewith your family members, set tasks for them, propose events, plan weekends and holidays.</p>
                 </div>
               </div>
@@ -58,7 +58,7 @@ function MyApp() {
               </div>
               <div className="mt-4 pl-2 mb-2 flex justify-between ">
                 <div>
-                  <p className="text-lg font-semibold text-gray-900 mb-0">User centered</p>
+                  <p className="text-lg font-semibold text-gray-900 mb-0">Assign people</p>
                   <p className="text-md text-gray-800 mt-0">We have created a convenient social network. Here you can communicatewith your family members, set tasks for them, propose events, plan weekends and holidays.</p>
                 </div>
               </div>

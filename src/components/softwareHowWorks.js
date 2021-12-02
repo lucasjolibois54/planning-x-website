@@ -13,14 +13,14 @@ const SoftwareHowWorks = () => {
                         <img src={Image88} className="pt-6" alt="mockup" />
                     </div>
                     <div className="flex text-center flex-col w-full px-3 justify-center xl:w-5/10 xl:text-left xl:pl-10">
-                    <h2 className="text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-5xl sm:text-6xl md:text-7xl 2xl:text-8xl font-bold font-sans text-dark-text py-0">
-                            Download now <br /> for free
+                    <h2 className="text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-4xl sm:text-4xl md:text-6xl 2xl:text-8xl font-bold font-sans text-dark-text py-0">
+                    A bit about how<br /> it works
                         </h2>
  
                         <div className="text-lg text-light-background px-5 text-dark-text py-5 md:px-24 xl:pl-0 xl:pr-20">
                             <ul>
-                                <li className="list-disc"><p className="font-light">We have created a convenient social network. Here you can communicatewith your family members, set tasks for them, propose events, plan weekends and holidays.</p></li><br/>
-                                <li className="list-disc"><p className="font-light">We have created a convenient social network. Here you can communicatewith your family members, set tasks for them, propose events, plan weekends and holidays.</p></li>
+                                <li className="list-disc"><p className="font-light text-left">The application is a SaS SPA application and it easen your workflow with your team. Through the app you can distribute tasks while also adding a timeframe & more.</p></li><br/>
+                                <li className="list-disc"><p className="font-light text-left">Through Planner X, your coworkers will be able to mkae their tasks as done when they have finished it, which will give you a clear overview of what have been done throught the day.</p></li>
                             </ul>
                         </div>
                         {/* <div className="flex justify-center text-center items-center py-0 xl:justify-start">

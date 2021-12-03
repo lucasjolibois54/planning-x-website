@@ -4,7 +4,7 @@ import * as React from "react"
 import Navigation from "../components/navigation";
 import Footer from "../components/footer.js"
 import SoftwareHero from "../components/softwareHero"
-import SoftwareOverview from "../components/SoftwareOverview"
+import SoftwareOverview from "../components/softwareOverview"
 import SoftwareFeatureCards from "../components/softwareFeatureCards"
 import SoftwareHowWorks from "../components/softwareHowWorks"
 import SoftwareHotToD from "../components/softwareHotToD"

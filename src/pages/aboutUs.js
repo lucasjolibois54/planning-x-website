@@ -4,7 +4,7 @@ import * as React from "react"
 import Navigation from "../components/navigation";
 import UsAbout from "../components/usAbout";
 import Footer from "../components/footer.js"
-import AboutCompany from "../components/AboutCompany.js"
+import AboutCompany from "../components/aboutCompany.js"
 import AboutHero from "../components/aboutHero"
 import ContactUs from "../components/contactUs.js"
 

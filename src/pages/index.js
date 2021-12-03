@@ -6,7 +6,7 @@ import HeroSection from "../components/heroSection"
 import SubHero from "../components/SubHero"
 import AllDevicesHome from "../components/allDevicesHome.js"
 import FeaturedSection from "../components/featuredSection.js"
-import DownloadForFree from "../components/DownloadForFree.js"
+import DownloadForFree from "../components/downloadForFree.js"
 import Footer from "../components/footer.js"
 
 //additional pages

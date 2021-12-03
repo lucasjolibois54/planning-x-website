@@ -10,7 +10,7 @@ const SoftwareOverview = () => {
     <div>
             <div className=" bg-maybe-dark-background w-full h-screen pt-24 lg:pt-0 pb-16">
 
-                <div id="software-overview-on-software-page" className="mb-28 p-0 flex flex-col-reverse w-full xl:flex-row-reverse md:p-16 md:mb-18 ">
+                <div id="software-overview-on-software-page" className="mb-18 p-0 flex flex-col-reverse w-full xl:flex-row-reverse md:p-16 md:mb-18 ">
                     <div className="w-full xl:w-9/12">
                         <img src={devicesSotware} className="pt-6" alt="mockup" />
                     </div>

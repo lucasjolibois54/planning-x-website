@@ -1,4 +1,6 @@
 import * as React from "react"
+import '../styles/global.css';
+
 
 //components
 import Navigation from "../components/navigation";
@@ -21,7 +23,7 @@ const pageStyles = {
 // markup
 const AboutUs = () => {
   return (
-    <main style={pageStyles}>
+    <main  className="bg-maybe-dark-background"  style={pageStyles}>
       <title>Planner X- about us</title>
       <Navigation/>
       <AboutHero/>

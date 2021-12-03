@@ -8,7 +8,7 @@ const SoftwareTheStepsOverview = () => {
         <div>
             <div className=" bg-maybe-dark-background w-full h-screen pt-0 lg:pt-0 pb-5">
 
-                <div  id="tips-about-page" className="mb-3 p-0 flex flex-col-reverse w-full xl:flex-row-reverse md:p-16 md:mb-10 ">
+                <div  id="tips-about-page" className="mb-3 p-0 flex flex-col-reverse w-full xl:flex-row-reverse md:p-16 md:mb-7 ">
                     <div className="w-full xl:w-9/12">
                     <h2 className="text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-4xl sm:text-4xl md:text-6xl 2xl:text-8xl font-bold text-dark-text py-0">
                     {" "}

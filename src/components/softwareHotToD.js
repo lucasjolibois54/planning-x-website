@@ -7,7 +7,7 @@ import Steps5 from "../images/download-steps-one.svg";
 const SoftwareHotToD = () => {
     return (
         <div>
-            <div id="top-of-the-home-page" className="w-full  bg-center bg-no-repeat bg-cover  bg-maybe-dark-background pb-10">
+            <div id="top-of-the-home-page" className="w-full  bg-center bg-no-repeat bg-cover  bg-maybe-dark-background pb-16">
                 <div className="w-full h-screen flex justify-center items-center pt-28">
                     <div className="mx-4 text-center text-white mt--1/3  md:left-1/2 right-1/2">
                         <h1 className="md:mt-10 text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-4xl md:text-7xl text-center font-semibold ">How to download <br/>the app offline</h1>

@@ -3,7 +3,7 @@ import * as React from "react"
 //components
 import Navigation from "../components/navigation";
 import HeroSection from "../components/heroSection"
-import SubHero from "../components/SubHero"
+import SubHero from "../components/subHero"
 import AllDevicesHome from "../components/allDevicesHome.js"
 import FeaturedSection from "../components/featuredSection.js"
 import DownloadForFree from "../components/downloadForFree.js"

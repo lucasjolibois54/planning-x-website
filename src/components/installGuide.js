@@ -1,7 +1,7 @@
 import * as React from "react"
 import '../styles/global.css';
 
-import DownloadSteps from "../images/how-to-download.svg";
+import DownloadSteps from "../images/how-to-4.png";
 // markup
 const InstallGuide = () => {
     return (

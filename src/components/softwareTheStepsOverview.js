@@ -15,9 +15,9 @@ const SoftwareTheStepsOverview = () => {
                         </h2>
                     <div className="text-lg text-light-background px-5 text-dark-text py-5 md:px-24 xl:pl-0 xl:pr-20">
                             <ul>
-                                <li className="list-none"><p className="font-light text-center md:text-left px-5 py-1 rounded-xl md:inline-block bg-dark-background">Download</p></li><br/>
-                                <li className="list-none"><p className="font-light text-center md:text-left md:px-5 py-1 rounded-xl md:inline-block bg-dark-background">Try it</p></li><br/>
-                                <li className="list-none"><p className="font-light text-center md:text-left md:px-5 py-1 rounded-xl md:inline-block bg-dark-background">Use online or offline</p></li> <br/>
+                                <li className="list-none"><p className="font-light text-center md:text-left px-5 py-1 rounded-xl md:inline-block bg-dark-background">Go on to our website</p></li><br/>
+                                <li className="list-none"><p className="font-light text-center md:text-left md:px-5 py-1 rounded-xl md:inline-block bg-dark-background">Click on the top right corner of the serach bar on the icon </p></li><br/>
+                                <li className="list-none"><p className="font-light text-center md:text-left md:px-5 py-1 rounded-xl md:inline-block bg-dark-background">Now youre ready to go offline </p></li> <br/>
                             </ul>
                         </div>
                     </div>
@@ -29,8 +29,7 @@ const SoftwareTheStepsOverview = () => {
                         <div className="text-lg text-light-background px-5 text-dark-text py-5 md:px-24 xl:pl-0 xl:pr-20">
                             <ul>
                                 <li className="list-disc"><p className="font-light text-left">Go on to our website, and navigate to a download button. You'll get the opportunity to use Planner X directly through the website, or download it on any device you want.</p></li><br/>
-                                <li className="list-disc"><p className="font-light text-left">Play around with it, and try adding different tasks with text and the colors you want.</p></li><br/>
-                                <li className="list-disc"><p className="font-light text-left">Use it either online or offline - the choice is yours!</p></li>
+                                <li className="list-disc"><p className="font-light text-left">Play around with it, and try adding different tasks with text and the colors you want. Use it either online or offline - the choice is yours!</p></li>
                             </ul>
                         </div>
                         {/* <div className="flex justify-center text-center items-center py-0 xl:justify-start">

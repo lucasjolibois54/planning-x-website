@@ -32,7 +32,6 @@ const Software = () => {
       <SoftwareHero/>
       <SoftwareOverview/>
       <SoftwareHowWorks/>
-      <SoftwareFeatureCards/>
       <SoftwareHotToD/>
       <SoftwareTheStepsOverview/>
       <InstallGuide/>

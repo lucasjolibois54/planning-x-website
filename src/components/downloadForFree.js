@@ -14,7 +14,7 @@ const DownloadForFree = () => {
                     </div>
                     <div className="flex text-center flex-col w-full px-3 justify-center lg:w-5/10 lg:text-left xl:pl-10">
 
-                        <h2 className="text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-5xl sm:text-6xl md:text-7xl 2xl:text-8xl font-bold text-dark-text py-0">
+                        <h2 className="text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-5xl sm:text-6xl md:text-7xl lg:text-6xl 2xl:text-8xl font-bold text-dark-text py-0">
                             Download now <br /> for free
                         </h2>
                         <p className="text-xl text-light-background px-5 text-dark-text py-5 md:px-24 lg:pl-0 xl:pr-20">

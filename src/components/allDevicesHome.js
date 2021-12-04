@@ -8,7 +8,7 @@ import DevicesImg from "../images/devices.png";
 // markup
 const AllDevicesHome = () => {
     return (
-        <div className=" bg-light-background w-full h-screen pt-20 md:pt-26 pb-20">
+        <div className=" bg-light-background w-full h-screen md:pt-20 md:pt-26 pb-20">
 
             <div id="about" className="md:pb-32 p-0 flex flex-col-reverse w-full pt-10 lg:flex-row md:p-16 md:mb-18">
                 <div className="w-full lg:w-full">

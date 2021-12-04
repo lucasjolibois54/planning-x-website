@@ -164,7 +164,7 @@ export default function IndexPage() {
                                                                 <rect x={14} y={14} width={6} height={6} rx={1} />
                                                             </svg>
                                                         </div>
-                                                        <p className="text-white xl:text-base text-base ml-3">Home</p>
+                                                        <p className="text-white xl:text-base md:text-2xl text-base ml-3">Home</p>
                                                     </div>
                                                 </li>
                                             </a>

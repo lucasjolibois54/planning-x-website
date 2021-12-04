@@ -8,11 +8,11 @@ const InstallGuide = () => {
         <div>
             <div className=" bg-maybe-dark-background w-full h-screen pt-10 lg:pt-0 pb-10">
 
-                <div id="" className="mb-28 p-0 flex flex-col-reverse w-full xl:flex-row-reverse md:p-16 md:mb-18 ">
-                    <div className="w-full xl:w-9/12 lg:text-left">
+                <div id="" className="mb-28 p-0 flex flex-col-reverse w-full lg:flex-row-reverse md:p-16 md:mb-18 ">
+                    <div className="w-full lg:w-9/12 lg:text-left">
                         <img src={DownloadSteps} className="pt-6 lg:pr-20" alt="The Team" />
                     </div>
-                    <div className="md:mr-7 flex text-center flex-col w-full px-3 justify-center xl:w-5/10 xl:text-left xl:pl-10">
+                    <div className="md:mr-7 flex text-center flex-col w-full px-3 justify-center lg:w-5/10 lg:text-left xl:pl-10">
 
                         <h2 className="lg:text-right  md:mr-7 px-2 text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-5xl sm:text-5xl md:text-6xl 2xl:text-6xl font-semibold text-dark-text py-0">
                         How to download

@@ -20,3 +20,9 @@
         margin-left: 20%;
         margin-right: 20%;
 }}
+
+.width-software { 
+	max-width: 1580px; 
+	margin: 0 auto !important; 
+	float: none !important; 
+}

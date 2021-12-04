@@ -14,7 +14,7 @@ const UsAbout = () => {
                     </div>
                     <div className="flex text-center flex-col w-full px-3 justify-center xl:w-5/10 lg:text-left xl:pl-10">
 
-                        <h2 className="text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-5xl sm:text-6xl md:text-7xl lg:text-5xl 2xl:text-8xl font-bold text-dark-text py-0">
+                        <h2 className="text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-5xl sm:text-6xl md:text-7xl lg:text-5xl xl:text-6xl 2xl:text-8xl font-semibold text-dark-text py-0">
                             Meet the team<br /> behind it!
                         </h2>
                         <p className="text-xl font-light text-light-background px-2 text-dark-text py-5 md:px-24 lg:px-0 xl:px-24 xl:pl-0 xl:pr-20">

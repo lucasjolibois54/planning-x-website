@@ -27,7 +27,7 @@ const AllDevicesHome = () => {
                         the full functionality of the tooltip.
                     </p>
                     <div className="flex justify-center text-center items-center py-0 xl:justify-start">
-                        <a href="#" className="py-1 px-4 text-light-button border-2 bg-black-button border-black-button rounded-md mr-2 transform transition duration-300 ease-in-out hover:scale-110 hover:bg-gray-800 hover:border-gray-800">Try program</a> <a className="cursor-pointer ml-2 py-1 px-4 text-black-button border-2 border-black-button hover:bg-gray-800 hover:border-gray-800 hover:text-light-button transform transition duration-300 ease-in-out  hover:scale-110 rounded-md"  onClick={()=>{navigate("/aboutUs")}}>About us</a>
+                        <a className=" cursor-pointer py-1 px-4 text-light-button border-2 bg-black-button border-black-button rounded-md mr-2 transform transition duration-300 ease-in-out hover:scale-110 hover:bg-gray-800 hover:border-gray-800"  onClick={()=>{navigate("/software#install-guide-section")}}>Install guide</a> <a className="cursor-pointer ml-2 py-1 px-4 text-black-button border-2 border-black-button hover:bg-gray-800 hover:border-gray-800 hover:text-light-button transform transition duration-300 ease-in-out  hover:scale-110 rounded-md"  onClick={()=>{navigate("/aboutUs")}}>About us</a>
                     </div>
                 </div>
             </div>

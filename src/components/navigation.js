@@ -108,7 +108,9 @@ export default function IndexPage() {
                     <div className="py-4 px-6 w-full flex xl:hidden justify-between items-center bg-dark-background fixed top-0 z-40">
                         <div className="w-24">
                             <div className="flex items-center w-20">
+                                <a className="cursor-pointer"  onClick={()=>{navigate("/")}}>
                                 <img src={PlannerXlogo} className="pt-6" alt="mockup" />
+                                </a>
                             </div>
                         </div>
                         <div className="flex items-center">

@@ -14,7 +14,7 @@ const InstallGuide = () => {
                     </div>
                     <div className="md:mr-7 flex text-center flex-col w-full px-3 justify-center lg:w-5/10 lg:text-left xl:pl-10">
 
-                        <h2 className="lg:text-right  md:mr-7 px-2 text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-5xl sm:text-5xl md:text-6xl 2xl:text-6xl font-semibold text-dark-text py-0">
+                        <h2 className="lg:text-right  md:mr-7 px-2 text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-5xl sm:text-5xl md:text-6xl lg:text-7xl 2xl:text-7xl font-semibold text-dark-text py-0">
                         How to download
                         </h2>
                         <p className="text-xl font-light text-light-background px-2 text-dark-text py-5 md:mr-7 xl:pl-0  lg:text-right">

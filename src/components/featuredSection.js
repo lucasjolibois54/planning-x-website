@@ -10,12 +10,12 @@ const FeaturedSection = () => {
         <div className=" bg-maybe-dark-background w-full h-screen pt-24 lg:pt-0 pb-20">
 
             <div id="about" className="mb-28 p-0 flex flex-col-reverse w-full lg:flex-row md:p-16 md:mb-18">
-                <div className="mt-20 w-full xl:w-9/12">
+                <div className="mt-20 w-full lg:w-9/12">
                     <img src={DevicesImg2} className="pt-6" alt="mockup" />
                 </div>
                 <div className="flex text-center mt-20 flex-col w-full px-3 justify-center lg:w-5/10 lg:text-left lg:ml-6 xl:pl-10">
 
-                    <h2 className="text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-5xl sm:text-6xl md:text-7xl 2xl:text-8xl font-bold text-dark-text py-0">
+                    <h2 className="text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-5xl sm:text-6xl md:text-7xl lg:text-6xl 2xl:text-8xl font-bold text-dark-text py-0">
                         Featured to help you with time planning
                     </h2>
                     <p className="text-xl text-light-background px-5 text-dark-text py-5 md:px-24 lg:px-0 xl:pl-0 xl:pr-20">

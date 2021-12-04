@@ -13,7 +13,7 @@ const FeaturedSection = () => {
                 <div className="mt-20 w-full lg:w-9/12">
                     <img src={DevicesImg2} className="pt-6" alt="mockup" />
                 </div>
-                <div className="flex text-center mt-20 flex-col w-full px-3 justify-center lg:w-5/10 lg:text-left lg:ml-6 xl:pl-10">
+                <div className="flex text-center md:mt-20 flex-col w-full px-3 justify-center lg:w-5/10 lg:text-left lg:ml-6 xl:pl-10">
 
                     <h2 className="text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-4xl sm:text-5xl md:text-7xl lg:text-6xl 2xl:text-8xl font-bold text-dark-text py-0">
                         Featured to help you with time planning

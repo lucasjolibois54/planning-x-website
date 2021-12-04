@@ -15,10 +15,10 @@ const FeaturedSection = () => {
                 </div>
                 <div className="flex text-center mt-20 flex-col w-full px-3 justify-center lg:w-5/10 lg:text-left lg:ml-6 xl:pl-10">
 
-                    <h2 className="text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-5xl sm:text-6xl md:text-7xl lg:text-6xl 2xl:text-8xl font-bold text-dark-text py-0">
+                    <h2 className="text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-4xl sm:text-5xl md:text-7xl lg:text-6xl 2xl:text-8xl font-bold text-dark-text py-0">
                         Featured to help you with time planning
                     </h2>
-                    <p className="text-xl text-light-background px-5 text-dark-text py-5 md:px-24 lg:px-0 xl:pl-0 xl:pr-20">
+                    <p className="text-lg text-light-background px-5 text-dark-text py-5 md:px-24 lg:px-0 xl:pl-0 xl:pr-20">
                         We have created a convenient network for work management. Here you can communicate with your team members, set tasks for them, propose events, plans & more. It will be easier for you to see which coworkers are working on a task. Your team will find it easier to plan their time when all the tasks are ahead of them. And it will be easier for you to control and help them.
                     </p>
                     <div className="flex justify-center text-center items-center py-0 xl:justify-start">

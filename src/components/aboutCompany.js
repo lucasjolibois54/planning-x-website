@@ -69,7 +69,7 @@ const AboutCompany = () => {
                     {/* <h2 className="pl-8 text-4xl font-semibold pb-10 pr-10 text-center  text-gray-variant md:text-5xl"><span className="bg-orange-text p-3 pl-4 pr-4 rounded-full">04</span></h2> */}
                     < h2 className=" text-2xl pb-1 font-semibold text-gray-variant  md:text-3xl md:text-left">03 Easy to use</h2>
                     <h2 className="  text-sm text-gray-variant md:text-left md:leading-10 md:text-lg">
-                    Our software is modern and easy to understand because we have focused alot on creating a user friendly design. Everyone can use it, and so can you :-)
+                    Our software is modern and easy to understand because we have focused alot on creating a user friendly design. Everyone can use it, and so can you.
                     </h2>
                 </div>
             </div>

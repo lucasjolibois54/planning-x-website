@@ -21,3 +21,7 @@
         margin-right: 20%;
 }}
 
+::selection{
+    background-color: rgba(231, 168, 141, 0.8);
+    color: white;
+}

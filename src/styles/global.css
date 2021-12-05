@@ -23,6 +23,4 @@
 
 ::selection{
     background-color: rgba(231, 168, 141, 0.4);
-    -webkit-tap-highlight-color: red;
-    -webkit-tap-highlight-color: transparent;
 }

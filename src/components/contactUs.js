@@ -25,18 +25,18 @@ const ContactUs = () => {
                         <div class="">
           <div>
             <span class="uppercase text-sm text-gray-600 font-bold"></span>
-            <input class="w-9/12 bg-blue-box text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"
+            <input class="w-9/12 bg-blue-box text-gray-variant mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"
               type="text" placeholder="Enter full Name"/>
           </div>
           <div class="mt-8">
             <span class="uppercase text-sm text-gray-600 font-bold"></span>
-            <input class="w-9/12 bg-blue-box text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"
+            <input class="w-9/12 bg-blue-box text-gray-variant mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline"
               type="text" placeholder="Enter your email"/>
           </div>
           <div class="mt-8">
             <span class="uppercase text-sm text-gray-600 font-bold"></span>
             <textarea
-              class="w-9/12 h-32 bg-blue-box text-gray-900 mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline" placeholder="Write your message"></textarea>
+              class="w-9/12 h-32 bg-blue-box text-gray-variant mt-2 p-3 rounded-lg focus:outline-none focus:shadow-outline" placeholder="Write your message"></textarea>
           </div>
           <div class="mt-8">
 

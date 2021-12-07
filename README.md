@@ -39,7 +39,7 @@
         <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#contributing">Contributing</a></li>
+    <li><a href="#thanks">Thank You</a></li>
     <li><a href="#contact">Contact</a></li>
     <!--<li><a href="#acknowledgments">Acknowledgments</a></li>-->
   </ol>
@@ -122,8 +122,8 @@ _Below is shown how to install and and set up your project._
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-<!-- CONTRIBUTING -->
-## Contributing
+<!-- Thank you -->
+## Thanks for watching
 
 If you enjoyed the project, please fork the repo & don't forget to give the it a star! Thanks again!
 
@@ -132,13 +132,13 @@ If you enjoyed the project, please fork the repo & don't forget to give the it a
 
 
 
-
+<div id="thanks">
 <!-- CONTACT -->
 ## Contact
 
 Lucas Bendix Jolibois- [@lucasjolibois54](https://github.com/lucasjolibois54) 
 
-Portfolio: [https://www.lucasjolibois.com/](https://www.lucasjolibois.com/)
+Portfolio: [https://www.lucasjolibois.com/](https://www.lucasjolibois.com/)</div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

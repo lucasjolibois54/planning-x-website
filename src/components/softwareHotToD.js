@@ -1,5 +1,8 @@
 import * as React from "react"
 import '../styles/global.css';
+import Aos from "aos";
+import "aos/dist/aos.css";
+import { useEffect } from 'react';
 
 //images
 import Steps5 from "../images/download-steps-one.svg";
@@ -15,8 +18,8 @@ const SoftwareHotToD = () => {
                         <div>
                             <div className="flex justify-center text-center items-center py-0 pb-20">
                                 <div className="md:w-4/6">
-                                    <img src={Steps5} className="pt-6" alt="mockup" />
-                                    <h2 className="font-light text-lg mt-4 text-left sm:pr-0 mb-7">Our app works on computers, tablets and phones. Just download it and register or go to your account Information is synchronized between devices. The application will tell you about itself and show the full functionality of the tooltip.</h2>
+                                    <img data-aos="fade-up" src={Steps5} className="pt-6" alt="mockup" />
+                                    <h2 data-aos="fade-up" className="font-light text-lg mt-4 text-left sm:pr-0 mb-7">Our app works on computers, tablets and phones. Just download it and register or go to your account Information is synchronized between devices. The application will tell you about itself and show the full functionality of the tooltip.</h2>
                                 </div>
                             </div>
                         </div>

@@ -1,11 +1,17 @@
 import * as React from "react"
 import '../styles/global.css';
+import Aos from "aos";
+import "aos/dist/aos.css";
+import { useEffect } from 'react';
 
 //images
 import SubHeroTablet2 from "../images/hero-img-software.svg";
 
 // markup
 const SoftwareHero = () => {
+    useEffect(() => {
+        Aos.init({ duration: 1000 });
+    }, []);
   return (
     <div>
     <div id="top-of-the-home-page" className="w-full  bg-center bg-no-repeat bg-cover  bg-maybe-dark-background pb-16">
@@ -18,7 +24,7 @@ const SoftwareHero = () => {
                         
                     <div className="md:w-2/6">
                             <h2 data-aos="fade-up" className="font-light text-lg mt-4 text-center sm:pr-0 mb-7">Our software easen your workflow and makes it easier for you to work and keeping track of the work being done through out the day art the office. Additionally it’ll also give your a clear strucutre of the tasks to be done as well as an overview.</h2>
-                           </div> <div className="md:w-4/6"> <img data-aos="zoom-out-up" src={SubHeroTablet2} className="pt-6" alt="mockup" />
+                           </div> <div className="md:w-4/6"> <img data-aos="zoom-out-up" data-aos-delay="50" data-aos-duration="1000" data-aos-easing="ease-in-out" data-aos-mirror="true" data-aos-once="false" src={SubHeroTablet2} className="pt-6" alt="mockup" />
                         </div>
                     </div>
                 </div>

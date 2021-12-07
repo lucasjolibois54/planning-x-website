@@ -24,7 +24,6 @@ const pageStyles = {
 const AboutUs = () => {
   return (
     <main className="bg-maybe-dark-background" style={pageStyles}>
-    <div className="max-w-screen-2xl y-auto">
       <title>Planner X- about us</title>
       <Navigation/>
       <AboutHero/>
@@ -32,7 +31,6 @@ const AboutUs = () => {
       <AboutCompany/>
       <ContactUs/>
       <Footer/>
-      </div>
     </main>
   )
 }

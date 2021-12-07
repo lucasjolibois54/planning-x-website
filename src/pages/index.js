@@ -24,25 +24,13 @@ const IndexPage = () => {
   return (
     <main style={pageStyles}>
       <title>Planner X- home</title>
-      <section className="bg-maybe-dark-background" style={pageStyles}>
-    <div className="max-w-screen-2xl y-auto">
       <Navigation/>
       <HeroSection/>
-      </div>
-        </section>
       <SubHero/>
-      <section className="bg-light-background" style={pageStyles}>
-    <div className="max-w-screen-2xl y-auto">
       <AllDevicesHome/>
-      </div>
-        </section>
-      <section className="bg-maybe-dark-background" style={pageStyles}>
-    <div className="max-w-screen-2xl y-auto">
       <FeaturedSection/>
       <DownloadForFree/>
       <Footer/>
-      </div>
-        </section>
     </main>
   )
 }

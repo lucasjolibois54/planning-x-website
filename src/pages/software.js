@@ -27,7 +27,6 @@ const pageStyles = {
 const Software = () => {
   return (
     <main className="bg-maybe-dark-background" style={pageStyles}>
-      <div className="max-w-screen-2xl y-auto">
       <title>Planner X- about the software</title>
       <Navigation/>
       <SoftwareHero/>
@@ -37,7 +36,6 @@ const Software = () => {
       <SoftwareTheStepsOverview/>
       <InstallGuide/>
       <Footer/>
-      </div>
     </main>
   )
 }

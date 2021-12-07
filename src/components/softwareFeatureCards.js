@@ -1,8 +1,14 @@
 import React from "react";
+import Aos from "aos";
+import "aos/dist/aos.css";
+import { useEffect } from 'react';
 
 
 
 function MyApp() {
+  useEffect(() => {
+    Aos.init({ duration: 2000 });
+}, []);
   
     return (
     
@@ -16,8 +22,8 @@ function MyApp() {
               </div>
               <div className="mt-4 pl-2 mb-2 flex justify-between ">
                 <div>
-                  <p className="text-lg font-semibold text-gray-900 mb-0">collaborartive tools</p>
-                  <p className="text-md text-gray-800 mt-0">We have added various of collaborative tools helping your workflow become smoother than ever. You can for instance invite people & users to the task overview, you can mark assignments as done when finished at it’ll disappear for all user etc.</p>
+                  <p data-aos="fade-up" className="text-lg font-semibold text-gray-900 mb-0">collaborartive tools</p>
+                  <p data-aos="fade-up" className="text-md text-gray-800 mt-0">We have added various of collaborative tools helping your workflow become smoother than ever. You can for instance invite people & users to the task overview, you can mark assignments as done when finished at it’ll disappear for all user etc.</p>
                 </div>
               </div>
             </div>
@@ -29,8 +35,8 @@ function MyApp() {
               </div>
               <div className="mt-4 pl-2 mb-2 flex justify-between ">
                 <div>
-                  <p className="text-lg font-semibold text-gray-900 mb-0">View show´s online</p>
-                  <p className="text-md text-gray-800 mt-0">Our software shows you every user/ coworker online working on his assignment while being in the software as well.</p>
+                  <p data-aos="fade-up" className="text-lg font-semibold text-gray-900 mb-0">View show´s online</p>
+                  <p data-aos="fade-up" className="text-md text-gray-800 mt-0">Our software shows you every user/ coworker online working on his assignment while being in the software as well.</p>
                 </div>
               </div>
             </div>
@@ -43,8 +49,8 @@ function MyApp() {
               </div>
               <div className="mt-4 pl-2 mb-2 flex justify-between ">
                 <div>
-                  <p className="text-lg font-semibold text-gray-900 mb-0">Assign people</p>
-                  <p className="text-md text-gray-800 mt-0">On every note that you create, you can assign someone to be responsible for  completing that task.</p>
+                  <p data-aos="fade-up" className="text-lg font-semibold text-gray-900 mb-0">Assign people</p>
+                  <p data-aos="fade-up" className="text-md text-gray-800 mt-0">On every note that you create, you can assign someone to be responsible for  completing that task.</p>
                 </div>
               </div>
             </div>

@@ -103,7 +103,7 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-_Below is shown how to install and and set up your project._
+_Below is shown how to install and and set up the project._
 
 1. Fork or clone the repo
    ```sh

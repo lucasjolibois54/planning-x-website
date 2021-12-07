@@ -132,13 +132,13 @@ If you enjoyed the project, please fork the repo & don't forget to give the it a
 
 
 
-<div id="thanks">
+<div id="thanks"></div>
 <!-- CONTACT -->
 ## Contact
 
 Lucas Bendix Jolibois- [@lucasjolibois54](https://github.com/lucasjolibois54) 
 
-Portfolio: [https://www.lucasjolibois.com/](https://www.lucasjolibois.com/)</div>
+Portfolio: [https://www.lucasjolibois.com/](https://www.lucasjolibois.com/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

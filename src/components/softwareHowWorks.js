@@ -19,7 +19,7 @@ const SoftwareHowWorks = () => {
                         <img data-aos="fade-up" data-aos-anchor-placement="top-center" src={Image88} className="pt-6" alt="mockup" />
                     </div>
                     <div className="flex text-center flex-col w-full px-3 justify-center xl:w-5/10 lg:text-left xl:pl-10">
-                    <h2 data-aos="fade-up"  data-aos-anchor-placement="top-center" className="text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-4xl sm:text-4xl md:text-6xl lg:text-5xl 2xl:text-8xl font-semibold text-dark-text py-0">
+                    <h2 data-aos="fade-up"  data-aos-anchor-placement="top-center" className="text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-4xl sm:text-4xl md:text-6xl lg:text-5xl 2xl:text-7xl font-semibold text-dark-text py-0">
                     A bit about how<br /> it works
                         </h2>
  

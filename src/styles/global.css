@@ -25,6 +25,10 @@
     background-color: rgba(231, 168, 141, 0.4);
 }
 
-main div{
+main {
+    margin: 0 auto !important; 
+}
+
+section {
     margin: 0 auto !important; 
 }

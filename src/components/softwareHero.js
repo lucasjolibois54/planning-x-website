@@ -18,7 +18,7 @@ const SoftwareHero = () => {
                         
                     <div className="md:w-2/6">
                             <h2 data-aos="fade-up" className="font-light text-lg mt-4 text-center sm:pr-0 mb-7">Our software easen your workflow and makes it easier for you to work and keeping track of the work being done through out the day art the office. Additionally it’ll also give your a clear strucutre of the tasks to be done as well as an overview.</h2>
-                           </div> <div className="md:w-4/6"> <img data-aos="fade-up" src={SubHeroTablet2} className="pt-6" alt="mockup" />
+                           </div> <div className="md:w-4/6"> <img data-aos="zoom-out-up" src={SubHeroTablet2} className="pt-6" alt="mockup" />
                         </div>
                     </div>
                 </div>

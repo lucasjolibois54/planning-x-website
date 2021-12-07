@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="planner-x.netlify.app">
-    <img src="https://github.com/lucasjolibois54/planning-x-website/blob/main/src/images/PlannerXlogo.png?raw=true" alt="Logo" width="auto" height="80">
+    <img src="https://github.com/lucasjolibois54/planning-x-website/blob/main/src/images/Group%2024.png?raw=true" alt="Logo" width="auto" height="100">
   </a>
 
   <h3 align="center">Planner X readme</h3>

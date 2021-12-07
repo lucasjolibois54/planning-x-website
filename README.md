@@ -121,6 +121,8 @@ _Below is shown how to install and and set up the project._
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+<div id="thanks"></div>
+
 
 <!-- Thank you -->
 ## Thanks for watching
@@ -132,13 +134,16 @@ If you enjoyed the project, please fork the repo & don't forget to give the it a
 
 
 
-<div id="thanks"></div>
+<div id="contact"></div>
+
 <!-- CONTACT -->
 ## Contact
 
 Lucas Bendix Jolibois- [@lucasjolibois54](https://github.com/lucasjolibois54) 
 
 Portfolio: [https://www.lucasjolibois.com/](https://www.lucasjolibois.com/)
+
+
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

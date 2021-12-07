@@ -7,6 +7,8 @@ import Footer from "../components/footer.js"
 // markup
 const PravacyPolicy = () => {
     return (
+        <main className="bg-maybe-dark-background">
+        <div className="max-w-screen-2xl y-auto">
         <div className="bg-maybe-dark-background w-full h-screen">
             <div className="mx-4 text-left text-white bg-maybe-dark-background pt-20 transform pb-36 policy-text">
                 <h1 className="text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-4xl md:text-7xl text-center font-semibold ">Planner X <br /> Privacy Policy</h1>
@@ -65,6 +67,8 @@ const PravacyPolicy = () => {
             </div>
             <Footer/>
         </div>
+        </div>
+        </main>
     )
 }
 

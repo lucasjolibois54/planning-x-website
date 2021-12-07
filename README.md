@@ -1,54 +1,150 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
+<div id="top"></div>
+
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="planner-x.netlify.app">
+    <img src="https://github.com/lucasjolibois54/planning-x-website/blob/main/src/images/PlannerXlogo.png?raw=true" alt="Logo" width="auto" height="80">
   </a>
-</p>
-<h1 align="center">
-  Gatsby minimal starter
-</h1>
 
-## 🚀 Quick start
+  <h3 align="center">Planner X readme</h3>
 
-1.  **Create a Gatsby site.**
+  <p align="center">
+    Your work based management system!
+    <br />
+    <a href="https://github.com/lucasjolibois54/planning-x-website/"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="planner-x.netlify.app">View Demo</a>
+  </p>
+</div>
 
-    Use the Gatsby CLI to create a new site, specifying the minimal starter.
 
-    ```shell
-    # create a new Gatsby site using the minimal starter
-    npm init gatsby
-    ```
 
-2.  **Start developing.**
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#thanks">Thank You</a></li>
+    <li><a href="#contact">Contact</a></li>
+    <!--<li><a href="#acknowledgments">Acknowledgments</a></li>-->
+  </ol>
+</details>
 
-    Navigate into your new site’s directory and start it up.
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
 
-3.  **Open the code and start customizing!**
+<!-- ABOUT THE PROJECT -->
+## About The Project
+<br/>
+<div align="center">
+  <a href="planner-x.netlify.app">
+    <img src="https://github.com/lucasjolibois54/planning-x-website/blob/main/src/images/Sk%C3%A6rmbillede%202021-12-07%20kl.%2003.33.41.png?raw=true" alt="Logo" width="90%" height="auto">
+  </a></div>
+  <br/>
 
-    Your site is now running at http://localhost:8000!
 
-    Edit `src/pages/index.js` to see your site update in real-time!
+Planner X is a revolutionary, free to use highly innovative software solution helping your work team traking their tasks and roles! Using our system, you'll be able to distribute work tasks/ assignments to your team through the app. The members of your team will later on be able to mark the task when it's done. It's simple, and it is free! What's not to like?
 
-4.  **Learn more**
+How it is made:
+* Planner X is a SPA SaaS web application, where the software works both offline & online
+* The software is based on Tailwind CSS, JavaScript & React while we have added Gatsby for the landingpage
+* The website is based on modern & innovative design with focus in interaction design and the gestalt principles
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+This is the repository to acess the website as i unfortunately can't share the software for security reasons.
 
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+Use the `README.md` to get started.
 
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+<p align="right">(<a href="#top">back to top</a>)</p>
 
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
 
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter)
+### Built With
 
-## 🚀 Quick start (Gatsby Cloud)
+In this section you'll see a list os any major frameworks/libraries used to bootstrap the project.
 
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
+* [Gatsby](gatsbyjs.com/)
+* [React.js](https://reactjs.org/)
+* [Tailwind css](https://tailwindcss.com/)
+* [AOS](https://github.com/michalsnik/aos/)
 
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+This is an example of how to list things you need to use the software and how to install them.
+* npm
+  ```sh
+  npm install npm@latest -g
+  ```
+
+### Installation
+
+_Below is shown how to install and and set up the project._
+
+1. Fork or clone the repo
+   ```sh
+   git clone https://github.com/lucasjolibois54/planning-x-website/
+   ```
+3. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Start local server
+   ```sh
+   npm run develop
+   ```
+5. Remember to star the repo 😉
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="thanks"></div>
+
+
+<!-- Thank you -->
+## Thanks for watching
+
+If you enjoyed the project, please fork the repo & don't forget to give the it a star! Thanks again!
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
+<div id="contact"></div>
+
+<!-- CONTACT -->
+## Contact
+
+Lucas Bendix Jolibois- [@lucasjolibois54](https://github.com/lucasjolibois54) 
+
+Portfolio: [https://www.lucasjolibois.com/](https://www.lucasjolibois.com/)
+
+
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+

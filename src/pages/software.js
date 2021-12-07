@@ -26,7 +26,7 @@ const pageStyles = {
 // markup
 const Software = () => {
   return (
-    <main className="bg-maybe-dark-background" style={pageStyles}>
+    <main className="bg-maybe-dark-background max-w-screen-xl" style={pageStyles}>
       <title>Planner X- about the software</title>
       <Navigation/>
       <SoftwareHero/>

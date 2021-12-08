@@ -5,7 +5,7 @@ import "aos/dist/aos.css";
 import { useEffect } from 'react';
 
 //images
-import SubHeroTablet2 from "../images/hero-img-software.svg";
+import SubHeroTablet2 from "../images/converted-her-software-2.webp";
 
 // markup
 const SoftwareHero = () => {

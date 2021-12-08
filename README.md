@@ -141,9 +141,23 @@ If you enjoyed the project, please fork the repo & don't forget to give the it a
 
 Lucas Bendix Jolibois- [@lucasjolibois54](https://github.com/lucasjolibois54) 
 
-Portfolio: [https://www.lucasjolibois.com/](https://www.lucasjolibois.com/)
+<!--Portfolio: [https://www.lucasjolibois.com/](https://www.lucasjolibois.com/)-->
 
+<br/>
 
+Andreas Erik Eriksen- [@aeeux](https://github.com/aeeux) 
+
+<br/>
+
+Shajah Ali- [@shajahali](https://github.com/shajahali) 
+
+<br/>
+
+Daud Khalid Mir- [@daudmir](https://github.com/Daudmir) 
+
+<br/>
+
+Marc Moan Nebbelunde- [@Marc140700](https://github.com/Marc140700) 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

@@ -64,7 +64,7 @@ How it is made:
 * The software is based on Tailwind CSS, JavaScript & React while we have added Gatsby for the landingpage
 * The website is based on modern & innovative design with focus in interaction design and the gestalt principles
 
-This is the repository to access the website, <a href="https://github.com/aeeux/plannerx-software">click here</a> to visit the access for the software.
+This is the repository to access the website, <a href="https://github.com/aeeux/plannerx-software">click here</a> to visit the software.
 
 Use the `README.md` to get started.
 

@@ -34,7 +34,7 @@ const DownloadForFree = () => {
                              </div>
                         </p>
                         <div className="flex justify-center text-center items-center py-0 lg:justify-start">
-                            <a data-aos="fade-up" href="#" className="py-1 px-4 text-light-button border-2 bg-blue-button border-blue-button rounded-md mr-2 transform transition duration-300 ease-in-out hover:scale-110 hover:bg-gray-800 hover:border-gray-800">Download app</a> <a data-aos="fade-up" className="ml-2 py-1 px-4 text-light-button border-2 border-light-button hover:text-light-background hover:border-blue-button  transform transition duration-300 ease-in-out  hover:scale-110 rounded-md" href="#">Download for PC</a>
+                            <a data-aos="fade-up" href="https://plannerx-software.netlify.app/" className="py-1 px-4 text-light-button border-2 bg-blue-button border-blue-button rounded-md mr-2 transform transition duration-300 ease-in-out hover:scale-110 hover:bg-gray-800 hover:border-gray-800">Download app</a> <a data-aos="fade-up" className="ml-2 py-1 px-4 text-light-button border-2 border-light-button hover:text-light-background hover:border-blue-button  transform transition duration-300 ease-in-out  hover:scale-110 rounded-md" href="https://plannerx-software.netlify.app/">Download for PC</a>
                         </div>
                     </div>
                 </div>

@@ -205,7 +205,7 @@ export default function IndexPage() {
                                             <div className="w-full items-center justify-between pt-6">
                                             
                                                 <a
-                                                    href="https://www.apple.com/app-store/"
+                                                    href="https://plannerx-software.netlify.app/"
                                                     class="w-42 block md:inline-block text-center shadow-lg bg-black hover:bg-gray-800 text-white font-bold py-2 px-10 rounded-full transition duration-500 ease-in-out transform hover:scale-110"
                                                     >
                                                     Download App

@@ -85,7 +85,7 @@ export default function IndexPage() {
                                     </a>
                                     <div className="flex flex-col mt-4">
                                         <a
-                                            href="https://www.apple.com/app-store/"
+                                            href="https://plannerx-software.netlify.app/"
                                             class="block md:inline-block text-center shadow-lg lg:ml-20 lg:mr-20  bg-black hover:bg-gray-800 text-white font-bold py-2 px-4 rounded-full transition duration-500 ease-in-out transform hover:scale-110"
                                         >
                                             <svg width="16px" height="16px" className="float-left hidden lg:block mr-2 mt-1" viewBox="0 0 256 315">

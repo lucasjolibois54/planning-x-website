@@ -25,7 +25,7 @@ const SubHero = () => {
                   
                   <section className="bg-light-background" >
     <div className="max-w-screen-2xl y-auto">
-                  <div className="h-20v md:h-50v bg-light-background"></div></div></section>
+                  <div className="h-20v md:h-37v bg-light-background"></div></div></section>
             </div>
       )
 }

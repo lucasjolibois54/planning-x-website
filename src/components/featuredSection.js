@@ -5,7 +5,7 @@ import "aos/dist/aos.css";
 import { useEffect } from 'react';
 
 //images
-import DevicesImg2 from "../images/Rectangle7654.png";
+import DevicesImg2 from "../images/Rectangle77654.png";
 
 // markup
 const FeaturedSection = () => {

@@ -4,7 +4,7 @@ import Aos from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from 'react';
 
-import TheTeam from "../images/Group18.png";
+import TheTeam from "../images/Group-64.png";
 // markup
 const UsAbout = () => {
     useEffect(() => {

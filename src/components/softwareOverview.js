@@ -5,7 +5,7 @@ import "aos/dist/aos.css";
 import { useEffect } from 'react';
 
 //images
-import devicesSotware from "../images/devicesSotware.svg";
+import devicesSotware from "../images/overview2.png";
 
 // markup
 const SoftwareOverview = () => {

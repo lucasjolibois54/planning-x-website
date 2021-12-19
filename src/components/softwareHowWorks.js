@@ -16,17 +16,17 @@ const SoftwareHowWorks = () => {
 
                 <div id="tips-about-page" className="mb-10 p-0 flex flex-col-reverse w-full lg:flex-row-reverse md:p-16 md:mb-18 ">
                     <div className="w-full xl:w-9/12 lg:my-auto">
-                        <img data-aos="fade-up" data-aos-anchor-placement="top-center" src={Image88} className="pt-6" alt="mockup" />
+                        <img data-aos="fade-up" src={Image88} className="pt-6" alt="mockup" />
                     </div>
-                    <div className="flex text-center flex-col w-full px-3 justify-center xl:w-5/10 lg:text-left xl:pl-10">
-                        <h2 data-aos="fade-up" data-aos-anchor-placement="top-center" className="text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-4xl sm:text-4xl md:text-6xl lg:text-5xl 2xl:text-7xl font-semibold text-dark-text py-0">
+                    <div data-aos="fade-up" data-aos-offset="200" data-aos-delay="100" className="flex text-center flex-col w-full px-3 justify-center xl:w-5/10 lg:text-left xl:pl-10">
+                        <h2 className="text-transparent bg-clip-text bg-gradient-to-br from-purple-text to-orange-text text-4xl sm:text-4xl md:text-6xl lg:text-5xl 2xl:text-7xl font-semibold text-dark-text py-0">
                             A bit about how<br /> it works
                         </h2>
 
-                        <div data-aos="fade-up" className="text-lg text-light-background px-5 text-dark-text py-5 md:px-24 lg:px-0 xl:pl-0 xl:pr-20">
+                        <div className="text-lg text-light-background px-5 text-dark-text py-5 md:px-24 lg:px-0 xl:pl-0 xl:pr-20">
                             <ul>
-                                <li data-aos-anchor-placement="top-center" className="list-disc"><p className="font-light text-left">The application is a SPA SaaS web application and it easen your workflow with your team. Through the app you can distribute tasks while also adding a timeframe & more.</p></li><br />
-                                <li data-aos-anchor-placement="top-center" className="list-disc"><p className="font-light text-left">Through Planner X, your coworkers will be able to mark their tasks as done when they have finished it, which will give you a clear overview of what has been done throughout the day.</p></li>
+                                <li className="list-disc"><p className="font-light text-left">The application is a SPA SaaS web application and it easen your workflow with your team. Through the app you can distribute tasks while also adding a timeframe & more.</p></li><br />
+                                <li className="list-disc"><p className="font-light text-left">Through Planner X, your coworkers will be able to mark their tasks as done when they have finished it, which will give you a clear overview of what has been done throughout the day.</p></li>
                             </ul>
                         </div>
                         {/* <div className="flex justify-center text-center items-center py-0 xl:justify-start">

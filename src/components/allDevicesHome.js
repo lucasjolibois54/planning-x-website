@@ -6,7 +6,7 @@ import { useEffect } from 'react';
 import { navigate } from "gatsby"
 
 //images
-import DevicesImg from "../images/devices.png";
+import DevicesImg from "../images/home-device.png";
 
 // markup
 const AllDevicesHome = () => {
